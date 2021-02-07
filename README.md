@@ -10,7 +10,7 @@ A bot made for a personal server. Currently has limited functionality, but more 
     ```bat
     npm install
     ```
-1. Create a config.json  in the src folder and put a token key from your bot into it
+1. rename "bot-config.json" to "config.json" and put a token key from your bot into it
 1. Run the bot
     ```bat
     npm run bot

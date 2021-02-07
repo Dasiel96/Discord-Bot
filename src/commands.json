@@ -1,0 +1,7 @@
+{
+    "COMMAND_PREFIX_KEY": "!",
+    "officeInvite": "!office",
+    "endMeeting": "!endMeeting",
+    "logOff": "!logoff",
+    "clear": "!clear"
+}

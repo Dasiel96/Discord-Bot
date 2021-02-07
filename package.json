@@ -1,0 +1,17 @@
+{
+  "name": "server-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "bot": "tsc && node \"./out/main.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.14.25",
+    "@types/ws": "^7.4.0",
+    "discord.js": "^12.5.1"
+  }
+}
